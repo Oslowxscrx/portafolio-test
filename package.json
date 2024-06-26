@@ -2,7 +2,7 @@
   "name": "portafolio-oscar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://oslowxscrx.github.io/git-portafolio/",
+  "homepage": "http://oslowxscrx.github.io/portafolio-test/",
   
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
